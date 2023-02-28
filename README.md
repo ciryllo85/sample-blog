@@ -34,4 +34,4 @@ Courtesy of [Vikas Rai](https://github.com/raiv200)
 Novo link
 
 
-Exercicio 03
+Exercicio 03 parte 2
